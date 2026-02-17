@@ -212,7 +212,7 @@ function printResult(errorMessage, result) {
 
     console.log();
     console.log(c.header('┌' + '─'.repeat(48) + '┐'));
-    console.log(c.header('│') + '  📚 ' + c.highlight('Error Explained') + ' '.repeat(27) + c.header('│'));
+    console.log(c.header('│') + '  📚 ' + c.highlight('Error Explained') + ' '.repeat(28) + c.header('│'));
     console.log(c.header('└' + '─'.repeat(48) + '┘'));
     console.log();
 
