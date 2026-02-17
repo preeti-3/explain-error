@@ -1,0 +1,17 @@
+{
+    "name": "explain-error",
+    "version": "1.0.0",
+    "description": "A CLI tool that converts JavaScript error messages into beginner-friendly explanations",
+    "main": "explain-error.js",
+    "bin": {
+        "explain-error": "./explain-error.js"
+    },
+    "keywords": [
+        "error",
+        "javascript",
+        "cli",
+        "beginner",
+        "debugging"
+    ],
+    "license": "MIT"
+}
